@@ -1,0 +1,30 @@
+nav {
+    text-align: right;
+}
+.My {
+    border-left: thin solid black;
+    padding-left: 5px;
+    margin: 5px;
+}
+.div {
+    background-color: rgb(14, 151, 14);
+    color: white;
+    height: 30px;
+    padding-top: 5px;
+    width: 100%;
+}
+.pad {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+#div {
+    background-color: rgb(14, 151, 14);
+    color: white;
+    height: 30px;
+    padding-top: 5px;
+    margin-bottom: 0px;
+    border: 0px hidden ;
+    width: 100%;
+    font-size: 1em;
+    padding-left: 5px;
+}

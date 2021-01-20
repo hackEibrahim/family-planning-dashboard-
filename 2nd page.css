@@ -28,3 +28,25 @@ nav {
     font-size: 1em;
     padding-left: 5px;
 }
+.coverage {
+    background-color: rgb(22, 156, 22);
+    width: 100%;
+    border: hidden;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+
+}
+#opt {
+    display: none;
+    background-color: rgb(247, 212, 15);
+    list-style-type: none;
+    margin-top: -10px;
+}
+ul li {
+    border-bottom: thin solid white;
+    margin-left: -30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 5.5px;
+    padding-top: 4.5px;
+}
